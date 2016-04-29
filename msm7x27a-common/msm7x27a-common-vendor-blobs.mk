@@ -82,3 +82,30 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27a-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/lge/msm7x27a-common/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/lge/msm7x27a-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+
+# RIL Files, from JSR Legacy
+PRODUCT_COPY_FILES += \
+    vendor/lge/msm7x27a-common/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/lge/msm7x27a-common/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/lge/msm7x27a-common/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libhwnv.so:system/lib/libhwnv.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqdi.so:system/lib/libqdi.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqdp.so:system/lib/libqdp.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqmi.so:system/lib/libqmi.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libqueue.so:system/lib/libqueue.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libvoem_if.so:system/lib/libvoem_if.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libwcnftm.so:system/lib/libwcnftm.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libwfcu.so:system/lib/libwfcu.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libwms.so:system/lib/libwms.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
