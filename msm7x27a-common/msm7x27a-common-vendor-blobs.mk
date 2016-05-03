@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27a-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
-    vendor/lge/msm7x27a-common/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
@@ -39,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27a-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/lge/msm7x27a-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
