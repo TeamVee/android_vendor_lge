@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p700/proprietary/lib/libdsm.so:system/lib/libdsm.so \
     vendor/lge/p700/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/lge/p700/proprietary/lib/libidl.so:system/lib/libidl.so \
-    vendor/lge/p700/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
     vendor/lge/p700/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
     vendor/lge/p700/proprietary/lib/liblge_security.so:system/lib/liblge_security.so \
     vendor/lge/p700/proprietary/lib/liblgsecclk.so:system/lib/liblgsecclk.so \
